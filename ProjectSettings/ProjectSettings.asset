@@ -11,8 +11,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: T10
-  productName: PhysicsVR-PrototypeDemo
+  companyName: AAN
+  productName: VRMilk
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.128, a: 1}
@@ -267,7 +267,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: c3d66a8056f9db345b1ea380aa7e815d, type: 3}
+      m_Icon: {fileID: 2800000, guid: db34c624716b69244a1912840e2f0509, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
