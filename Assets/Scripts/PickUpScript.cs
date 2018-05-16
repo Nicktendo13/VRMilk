@@ -14,8 +14,8 @@ public class PickUpScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (GlobalPowerScript.powerOn == true) {
+		//if (GlobalPowerScript.powerOn == true) {
 			obj.isGrabbable = true;
-		}
+		//}
 	}
 }
